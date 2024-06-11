@@ -1,7 +1,3 @@
-Sure! Here's a concise version of the README file:
-
----
-
 # IMDb Clone
 
 An IMDb clone built using Node.js, Express.js, and MongoDB, featuring pagination and search functionality.
