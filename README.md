@@ -59,10 +59,6 @@ An IMDb clone built using Node.js, Express.js, and MongoDB, featuring pagination
 - **Movies**: `GET /api/movies` (with pagination)
 - **Search**: `GET /api/movies?search=movie_title`
 
-## Contributing
-
-Contributions are welcome. Please open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License.
